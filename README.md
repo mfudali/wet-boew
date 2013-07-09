@@ -1,4 +1,4 @@
-TEST MERGE ON MASTER
+TEST MERGE ON-LINE
 
 # Web Experience Toolkit (WET)
 
