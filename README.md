@@ -1,4 +1,4 @@
-TEST MERGE ON-LINE
+TEST LOCAL MERGE
 
 # Web Experience Toolkit (WET)
 
